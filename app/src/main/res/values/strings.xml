@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CheckPrice</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_input">USDT-BTC;BTC-ADA</string>
+</resources>
